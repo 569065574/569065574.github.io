@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.qinlin.ahaschool",
+    "sha256_cert_fingerprints":
+    ["B8:44:FB:91:7C:16:DC:86:C0:C4:37:52:8D:D1:D4:6E:6E:8C:D4:93:CA:74:85:8D:7D:88:D0:97:39:07:61:C8"]
+  }
+}]
